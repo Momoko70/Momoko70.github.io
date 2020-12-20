@@ -20,8 +20,13 @@
             <description><![CDATA[ &lt;h1 id=&#34;momoko70s-blog&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#momoko70s-blog&#34;&gt;#&lt;/a&gt; &lt;strong&gt;Momoko70&#39;s Blog&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;23333，唯独你没懂&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt; introduction：&lt;/h2&gt;
-&lt;p&gt;本博客于 2020 年 12 月 18 日创建，清博客主 70 记得编写和管理好自己的博客。&lt;/p&gt;
-&lt;p&gt;本博客使用 github.io+hexo 搭建。																												域名：&lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;																使用的图床：&lt;a href=&#34;https://sm.ms/&#34;&gt;https://sm.ms/&lt;/a&gt;  | &lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;					使用 cdn 加速：&lt;a href=&#34;http://cdn.jsdelivr.net&#34;&gt;cdn.jsdelivr.net&lt;/a&gt;																													使用的笔记软件：Typora																																使用语雀管理 blog 笔记：&lt;a href=&#34;https://www.yuque.com/momoko70/guks1i&#34;&gt;https://www.yuque.com/momoko70/guks1i&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;本博客于 2020 年 12 月 18 日创建，清博客主 70 记得编写和管理好自己的博客！&lt;/p&gt;
+&lt;p&gt;本博客使用 github.io+hexo 搭建&lt;br /&gt;
+域名：&lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;&lt;br /&gt;
+ 使用的图床：&lt;a href=&#34;https://sm.ms/&#34;&gt;https://sm.ms/&lt;/a&gt;  | &lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;&lt;br /&gt;
+ 使用 cdn 加速：&lt;a href=&#34;http://cdn.jsdelivr.net&#34;&gt;cdn.jsdelivr.net&lt;/a&gt;&lt;br /&gt;
+ 使用的笔记软件：Typora&lt;br /&gt;
+ 使用语雀管理 blog 笔记：&lt;a href=&#34;https://www.yuque.com/momoko70/guks1i&#34;&gt;https://www.yuque.com/momoko70/guks1i&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;test&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#test&#34;&gt;#&lt;/a&gt; Test：&lt;/h2&gt;
 &lt;p&gt;公式测试：&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mover accent=&#34;true&#34;&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo&gt;⃗&lt;/mo&gt;&lt;/mover&gt;&lt;mo&gt;⋅&lt;/mo&gt;&lt;mover accent=&#34;true&#34;&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mo&gt;⃗&lt;/mo&gt;&lt;/mover&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\vec{a} \cdot \vec{b}=0
@@ -49,8 +54,7 @@ int main（）
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;图片测试：&lt;/p&gt;
 &lt;p&gt;（博主头像）&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![Leo_aoi-1172387989277696002-20190913_135413-img1.jpg](https://i.loli.net/2020/12/20/tVKfaRYdIpADLWx.jpg)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;test/tVKfaRYdIpADLWx.jpg&#34; alt=&#34;Leo_aoi-1172387989277696002-20190913_135413-img1.jpg&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
