@@ -13,44 +13,24 @@
         <id>http://example.com/2020/12/18/test/</id>
         <title>我永远喜欢Momoko葵葵.jpg</title>
         <link rel="alternate" href="http://example.com/2020/12/18/test/"/>
-        <content type="html">&lt;h1 id=&#34;momoko70s-blog&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#momoko70s-blog&#34;&gt;#&lt;/a&gt; &lt;strong&gt;Momoko70&#39;s Blog&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;23333，唯独你没懂&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt; introduction：&lt;/h2&gt;
-&lt;p&gt;本博客于 2020 年 12 月 18 日创建，清博客主 70 记得编写和管理好自己的博客！&lt;/p&gt;
-&lt;p&gt;本博客使用 github.io+hexo 搭建&lt;br /&gt;
-域名：&lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;&lt;br /&gt;
- 使用的图床：&lt;a href=&#34;https://sm.ms/&#34;&gt;https://sm.ms/&lt;/a&gt;  | &lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;&lt;br /&gt;
- 使用 cdn 加速：&lt;a href=&#34;http://cdn.jsdelivr.net&#34;&gt;cdn.jsdelivr.net&lt;/a&gt;&lt;br /&gt;
- 使用的笔记软件：Typora&lt;br /&gt;
- 使用语雀管理 blog 笔记：&lt;a href=&#34;https://www.yuque.com/momoko70/guks1i&#34;&gt;https://www.yuque.com/momoko70/guks1i&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;test&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#test&#34;&gt;#&lt;/a&gt; Test：&lt;/h2&gt;
-&lt;p&gt;公式测试：&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mover accent=&#34;true&#34;&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo&gt;⃗&lt;/mo&gt;&lt;/mover&gt;&lt;mo&gt;⋅&lt;/mo&gt;&lt;mover accent=&#34;true&#34;&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mo&gt;⃗&lt;/mo&gt;&lt;/mover&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\vec{a} \cdot \vec{b}=0
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.714em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord accent&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.714em;&#34;&gt;&lt;span style=&#34;top:-3em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;a&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;accent-body&#34; style=&#34;left:-0.2355em;&#34;&gt;&lt;span class=&#34;overlay&#34; style=&#34;height:0.714em;width:0.471em;&#34;&gt;&lt;svg width=&#39;0.471em&#39; height=&#39;0.714em&#39; style=&#39;width:0.471em&#39; viewBox=&#39;0 0 471 714&#39; preserveAspectRatio=&#39;xMinYMin&#39;&gt;&lt;path d=&#39;M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;⋅&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.9774399999999999em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord accent&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.9774399999999999em;&#34;&gt;&lt;span style=&#34;top:-3em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;b&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.26344em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;accent-body&#34; style=&#34;left:-0.2355em;&#34;&gt;&lt;span class=&#34;overlay&#34; style=&#34;height:0.714em;width:0.471em;&#34;&gt;&lt;svg width=&#39;0.471em&#39; height=&#39;0.714em&#39; style=&#39;width:0.471em&#39; viewBox=&#39;0 0 471 714&#39; preserveAspectRatio=&#39;xMinYMin&#39;&gt;&lt;path d=&#39;M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+        <content type="html">&lt;h1 id=&#34;Momoko70’s-Blog&#34;&gt;&lt;a href=&#34;#Momoko70’s-Blog&#34; class=&#34;headerlink&#34; title=&#34;Momoko70’s Blog&#34;&gt;&lt;/a&gt;&lt;strong&gt;Momoko70’s Blog&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;23333，唯独你没懂&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;introduction：&#34;&gt;&lt;a href=&#34;#introduction：&#34; class=&#34;headerlink&#34; title=&#34;introduction：&#34;&gt;&lt;/a&gt;introduction：&lt;/h2&gt;&lt;p&gt;本博客于2020年12月18日创建，清博客主70记得编写和管理好自己的博客！&lt;/p&gt;
+&lt;p&gt;本博客使用github.io+hexo搭建&lt;br&gt;域名：&lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;&lt;br&gt;使用的图床：&lt;a href=&#34;https://sm.ms/&#34;&gt;https://sm.ms/&lt;/a&gt;  | &lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;&lt;br&gt;使用cdn加速：cdn.jsdelivr.net&lt;br&gt;使用的笔记软件：Typora&lt;br&gt;使用语雀管理blog笔记：&lt;a href=&#34;https://www.yuque.com/momoko70/guks1i&#34;&gt;https://www.yuque.com/momoko70/guks1i&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Test：&#34;&gt;&lt;a href=&#34;#Test：&#34; class=&#34;headerlink&#34; title=&#34;Test：&#34;&gt;&lt;/a&gt;Test：&lt;/h2&gt;&lt;p&gt;公式测试：&lt;br&gt;$$&lt;br&gt;\vec{a} \cdot \vec{b}=0&lt;br&gt;$$&lt;/p&gt;
 &lt;p&gt;代码测试：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-c++&#34;&gt;#include&amp;lt;iostream&amp;gt;
+&lt;pre&gt;&lt;code class=&#34;c++&#34;&gt;#include&amp;lt;iostream&amp;gt;
 using namespace std；
 
 int main（）
 &amp;#123;
     cou&amp;lt;&amp;lt;&amp;quot;欢迎来到漆灵的博客！&amp;quot;&amp;lt;&amp;lt;endl;
-&amp;#125;
-&lt;/code&gt;&lt;/pre&gt;
+&amp;#125;&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;图片测试：&lt;/p&gt;
 &lt;p&gt;（博主头像）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;test/tVKfaRYdIpADLWx.jpg&#34; alt=&#34;Leo_aoi-1172387989277696002-20190913_135413-img1.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/test/tVKfaRYdIpADLWx.jpg&#34; alt=&#34;Leo_aoi-1172387989277696002-20190913_135413-img1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;—end—&lt;/p&gt;
 </content>
         <updated>2020-12-18T09:09:50.000Z</updated>
     </entry>
