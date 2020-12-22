@@ -17,25 +17,36 @@
             <title>我永远喜欢Momoko葵葵.jpg</title>
             <link>http://example.com/2020/12/18/test/</link>
             <pubDate>Fri, 18 Dec 2020 17:09:50 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;Momoko70’s-Blog&#34;&gt;&lt;a href=&#34;#Momoko70’s-Blog&#34; class=&#34;headerlink&#34; title=&#34;Momoko70’s Blog&#34;&gt;&lt;/a&gt;&lt;strong&gt;Momoko70’s Blog&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;23333，唯独你没懂&lt;br&gt;本博客于2020年12月18日创建，清博客主70记得编写和管理好自己的博客！&lt;/p&gt;
-&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
-
-&lt;h2 id=&#34;introduction：&#34;&gt;&lt;a href=&#34;#introduction：&#34; class=&#34;headerlink&#34; title=&#34;introduction：&#34;&gt;&lt;/a&gt;introduction：&lt;/h2&gt;&lt;p&gt;本博客使用github.io+hexo搭建&lt;br&gt;域名：&lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;&lt;br&gt;使用的图床：&lt;a href=&#34;https://sm.ms/&#34;&gt;https://sm.ms/&lt;/a&gt;  | &lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;&lt;br&gt;使用cdn加速：cdn.jsdelivr.net&lt;br&gt;使用的笔记软件：Typora&lt;br&gt;使用语雀管理blog笔记：&lt;a href=&#34;https://www.yuque.com/momoko70/guks1i&#34;&gt;https://www.yuque.com/momoko70/guks1i&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;Test：&#34;&gt;&lt;a href=&#34;#Test：&#34; class=&#34;headerlink&#34; title=&#34;Test：&#34;&gt;&lt;/a&gt;Test：&lt;/h2&gt;&lt;p&gt;公式测试：&lt;br&gt;$$&lt;br&gt;23333&lt;br&gt;$$&lt;/p&gt;
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;momoko70s-blog&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#momoko70s-blog&#34;&gt;#&lt;/a&gt; &lt;strong&gt;Momoko70&#39;s Blog&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;23333，唯独你没懂&lt;br&gt;
+本博客于 2020 年 12 月 18 日创建，清博客主 70 记得编写和管理好自己的博客！&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt; introduction：&lt;/h2&gt;
+&lt;p&gt;本博客使用 github.io+hexo 搭建&lt;br&gt;
+域名：&lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;&lt;br&gt;
+ 使用的图床：&lt;a href=&#34;https://sm.ms/&#34;&gt;https://sm.ms/&lt;/a&gt;  | &lt;a href=&#34;https://github.com/Momoko70/Momoko70.github.io&#34;&gt;https://github.com/Momoko70/Momoko70.github.io&lt;/a&gt;&lt;br&gt;
+ 使用 cdn 加速：&lt;a href=&#34;http://cdn.jsdelivr.net&#34;&gt;cdn.jsdelivr.net&lt;/a&gt;&lt;br&gt;
+ 使用的笔记软件：Typora&lt;br&gt;
+ 使用语雀管理 blog 笔记：&lt;a href=&#34;https://www.yuque.com/momoko70/guks1i&#34;&gt;https://www.yuque.com/momoko70/guks1i&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;test&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#test&#34;&gt;#&lt;/a&gt; Test：&lt;/h2&gt;
+&lt;p&gt;公式测试：&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;23333&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;23333
+&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;代码测试：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;c++&#34;&gt;#include&amp;lt;iostream&amp;gt;
+&lt;pre&gt;&lt;code class=&#34;language-c++&#34;&gt;#include&amp;lt;iostream&amp;gt;
 using namespace std；
 
 int main（）
 &amp;#123;
     cou&amp;lt;&amp;lt;&amp;quot;欢迎来到漆灵的博客！&amp;quot;&amp;lt;&amp;lt;endl;
-&amp;#125;&lt;/code&gt;&lt;/pre&gt;
+&amp;#125;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;图片测试：&lt;/p&gt;
 &lt;p&gt;（博主头像）&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.loli.net/2020/12/22/Rds9EKZNSpxkGXh.jpg&#34; alt=&#34;avatar&#34;&gt;&lt;/p&gt;
 &lt;p&gt;视频测试：&lt;/p&gt;
-&lt;div id=&#34;dplayer0&#34; class=&#34;dplayer hexo-tag-dplayer-mark&#34; style=&#34;margin-bottom: 20px;&#34;&gt;&lt;/div&gt;&lt;script&gt;(function(){var player = new DPlayer({&#34;container&#34;:document.getElementById(&#34;dplayer0&#34;),&#34;loop&#34;:true,&#34;video&#34;:{&#34;url&#34;:&#34;https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/videos/Merry_Christmas_Mmkkk.mp4&#34;},&#34;danmaku&#34;:{&#34;id&#34;:&#34;Momoko70&#34;,&#34;api&#34;:&#34;https://api.prprpr.me/dplayer/&#34;}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()&lt;/script&gt;
-
+&lt;p&gt;&lt;div id=&#34;dplayer0&#34; class=&#34;dplayer hexo-tag-dplayer-mark&#34; style=&#34;margin-bottom: 20px;&#34;&gt;&lt;/div&gt;&lt;script&gt;(function(){var player = new DPlayer({&#34;container&#34;:document.getElementById(&#34;dplayer0&#34;),&#34;loop&#34;:true,&#34;video&#34;:{&#34;url&#34;:&#34;https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/videos/Merry_Christmas_Mmkkk.mp4&#34;},&#34;danmaku&#34;:{&#34;id&#34;:&#34;Momoko70&#34;,&#34;api&#34;:&#34;https://api.prprpr.me/dplayer/&#34;}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div id=&#34;dplayer1&#34; class=&#34;dplayer hexo-tag-dplayer-mark&#34; style=&#34;margin-bottom: 20px;&#34;&gt;&lt;/div&gt;&lt;script&gt;(function(){var player = new DPlayer({&#34;container&#34;:document.getElementById(&#34;dplayer1&#34;),&#34;theme&#34;:&#34;#FADFA3&#34;,&#34;loop&#34;:true,&#34;video&#34;:{&#34;url&#34;:&#34;https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/videos/Merry_Christmas_Mmkkk.mp4&#34;,&#34;pic&#34;:&#34;https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/Merry_Christmas_Mmkkk.jpg&#34;},&#34;danmaku&#34;:{&#34;id&#34;:&#34;9E2E3368B56CDBB4&#34;,&#34;api&#34;:&#34;https://api.prprpr.me/dplayer/&#34;,&#34;token&#34;:&#34;tokendemo&#34;,&#34;addition&#34;:[&#34;https://dplayer.daoapp.io/bilibili?aid=4157142&#34;]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()&lt;/script&gt;&lt;/p&gt;
 &lt;p&gt;—end—&lt;/p&gt;
  ]]></description>
         </item>
