@@ -20,11 +20,13 @@
 &lt;p&gt;本博客使用github.io+hexo搭建 域名：https://github.com/Momoko70/Momoko70.github.io 使用的图床：https://sm.ms/ | https://github.com/Momoko70/Momoko70.github.io 使用cdn加速：cdn.jsdelivr.net 使用的笔记软件：Typora 使用语雀管理blog笔记：https://www.yuque.com/momoko70/guks1i&lt;/p&gt;
 &lt;h2 id=&#34;test&#34;&gt;Test：&lt;/h2&gt;
 &lt;p&gt;公式测试： &lt;span class=&#34;math display&#34;&gt;\[
-f(n) =
-\begin{cases} 
-n/2,  &amp;amp; \text{if }n\text{ is even} \\
-3n+1, &amp;amp; \text{if }n\text{ is odd}
-\end{cases}
+ \left\{
+ \begin{matrix}
+   1 &amp;amp; 2 &amp;amp; 3 \\
+   4 &amp;amp; 5 &amp;amp; 6 \\
+   7 &amp;amp; 8 &amp;amp; 9
+  \end{matrix}
+  \right\} \tag{2}
 \]&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;代码测试：&lt;/p&gt;
 &lt;div class=&#34;sourceCode&#34; id=&#34;cb1&#34;&gt;&lt;pre class=&#34;sourceCode cpp&#34;&gt;&lt;code class=&#34;sourceCode cpp&#34;&gt;&lt;span id=&#34;cb1-1&#34;&gt;&lt;a href=&#34;#cb1-1&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;&lt;span class=&#34;pp&#34;&gt;#include&lt;/span&gt;&lt;span class=&#34;im&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;/span&gt;
