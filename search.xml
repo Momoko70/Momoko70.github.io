@@ -133,7 +133,7 @@ int main（）
   </entry>
   <entry>
     <title>Garage Kit</title>
-    <url>/PY/Garage-Kit/</url>
+    <url>/py/Garage-Kit/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>今天收到了网友送来的手办～</p>
 <a id="more"></a>
 <p>感谢网友重楼雪：</p>
@@ -157,7 +157,7 @@ int main（）
 <p>—END—</p>
 ]]></content>
       <categories>
-        <category>PY</category>
+        <category>py</category>
       </categories>
   </entry>
 </search>
