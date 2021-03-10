@@ -142,7 +142,7 @@ int main（）
 <p>* 已于 2021 年 1 月 8 日更换为：</p>
 <img style="margin: auto;" src="https://i.loli.net/2021/01/08/HlqYD5GpQVa74Bi.jpg">
 <p>* 又于 2021 年 3 月 10 号更改为：</p>
-<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/avatar.jpg">
+<img style="margin: auto;" src="">
 <p>视频测试：</p>
 <p>（正好快圣诞了，放一下葵葵女神的视频。大家圣诞快乐呀！！）</p>
 <div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","video":{"url":"https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/videos/Merry_Christmas_Mmkkk.mp4","pic":"https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/Merry_Christmas_Mmkkk.jpg"},"danmaku":{"id":"Momoko70","api":"https://api.prprpr.me/dplayer/","token":"tokendemo"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
