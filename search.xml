@@ -173,9 +173,11 @@ int main（）
       </tags>
   </entry>
   <entry>
-    <title>Blender-Rig-01</title>
+    <title>Blender Rig简单人物绑定</title>
     <url>/Blender/Blender-Rig-01/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="一-准备工作"><a class="markdownIt-Anchor" href="#一-准备工作">#</a> 一、准备工作</h2>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>分享一下 blender rig 简单绑定小技巧～</p>
+<a id="more"></a>
+<h2 id="一-准备工作"><a class="markdownIt-Anchor" href="#一-准备工作">#</a> 一、准备工作</h2>
 <p>插件：rigify</p>
 <p>获取方法：</p>
 <p>打开 Blender 首选项设置，在插件搜索栏，搜索 rig 找到 rigify</p>
