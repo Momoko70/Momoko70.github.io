@@ -172,4 +172,49 @@ int main（）
         <tag>test</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Blender-Rig-01</title>
+    <url>/Blender/Blender-Rig-01/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="一-准备工作"><a class="markdownIt-Anchor" href="#一-准备工作">#</a> 一、准备工作</h2>
+<p>插件：rigify</p>
+<p>获取方法：</p>
+<p>打开 Blender 首选项设置，在插件搜索栏，搜索 rig 找到 rigify</p>
+<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/1617553813111-f6099db9-2f45-45c2-b834-1eeeb71bde33.png">
+<p>准备要绑定的模型，将顶点组等清空。</p>
+<h2 id="二-绑定"><a class="markdownIt-Anchor" href="#二-绑定">#</a> 二、绑定</h2>
+<p>1、将模型调整到合适的比例 (推荐使用单位 M），Shift+A 创建一个 Human（Meta-RIg）。</p>
+<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/1617554048889-615dc50b-33a4-4f47-a9b2-65c7a0679002.png">
+<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/rig">
+<p>// 也可以是其他 meta-rig 谷歌，后面还可以在骨骼属性中创建 rig 默认骨架。</p>
+<p>2、将骨架和模型对齐。</p>
+<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/1617554496737-0b0380b2-f9c4-465a-bf97-ab4d62df958c.png">
+<p>小技巧：在骨架属性中的视图显示设置，可以让你更直观的观察骨架。如 In Front（显示在最前面）等。</p>
+<p>// 要注意骨骼<strong>轴向</strong>和<strong>命名</strong></p>
+<p>3、创建 rig 控件</p>
+<p>将骨架与模型对应后，选择骨架，在骨架属性点击创建 Rig 控制器。</p>
+<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/1617554874892-1d420c76-b043-43b9-8446-3550531dd329.png">
+<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/1617555044375-89fcceb9-3284-4ef9-b92e-aea086e025aa.png">
+<p>// 创建后可以原本的 Meta rig 进行隐藏，如果遇到 bug 就可以利用重新生成 rig 控制器。</p>
+<p>4、绑定</p>
+<p>选择要绑定的模型，（可以单独绑，也可以一起绑定），最后选择控制器，使 rig 控制器处于活动物体。按下快捷键 Ctrl+P，选择<strong>生成父级附带自动权重</strong>。</p>
+<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/rig2">
+<p>进入姿态模式，拖到一下 rig 控制器。模型跟着动作，ok，绑定完成！</p>
+<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/1617555776972-2dfb052f-f378-450a-92b5-08d8bd9a78ed.png">
+<h2 id="三-修改"><a class="markdownIt-Anchor" href="#三-修改">#</a> 三、修改</h2>
+<p>1、如果 rig 控件位置不对，可以通过调整原本的 meta-rig 然后修改完重新生成即可。</p>
+<p>2、如果已经绑定好了，然后只想改变一个骨骼，可以在骨架属性创建 rig 控制器下面找到高级选项选上覆盖。然后再点击创建 rig。</p>
+<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/1617556325894-75758231-bd41-444d-b141-b10a100144b7.png">
+<p>3、如果模型要修改权重，首先先选择 rig 骨架，然后按 shift 选择要刷权重的模型部件，进入权重模式。</p>
+<p>笔试属性中，修改笔刷的属性来刷权重，add 是加，Subtract 是减，越红权重越大，越蓝权重越小。以此类推。</p>
+<p>刷权重的时候姿势不是对称的时候，可以使用顶点组对称。</p>
+<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/Momoko70/Momoko70.github.io@main/assets/Images/1617556676036-a002f35f-6a3a-494f-8306-1d35cb14031e.png">
+<p>——End——</p>
+]]></content>
+      <categories>
+        <category>Blender</category>
+      </categories>
+      <tags>
+        <tag>Blender</tag>
+      </tags>
+  </entry>
 </search>
